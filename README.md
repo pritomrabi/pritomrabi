@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Scaling backend in Django**
 
-- 👨‍💻 All of my projects are available at [my GitHub](my GitHub)
+- 👨‍💻 All of my projects are available at my GitHub
 
 - 💬 Ask me about **React, Django, REST API, Tailwind**
 
