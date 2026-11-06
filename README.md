@@ -3,19 +3,17 @@
 <h3 align="center">Co-Founder & CTO at Tazenix | Entrepreneur | Technology & Product Leader</h3>
 
 <p align="center">
-  Building technology-driven businesses, digital products, and innovative solutions.
+  Building technology-driven businesses, digital products, and scalable solutions.
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🏢 Co-Founder & CTO at **[Tazenix](https://tazenix.com/)**
-- 🎯 Focused on technology leadership, business growth, and product development.
-- 💡 Passionate about turning ideas into practical technology solutions.
-- ⚙️ Involved in technical strategy, system architecture, and software development.
-- 🌍 Interested in building scalable digital products and technology-driven businesses.
-- 🤝 Open to meaningful collaborations and innovative opportunities.
+- Co-Founder & CTO at [Tazenix](https://tazenix.com/)
+- Focused on technology strategy, product development, and business growth.
+- Involved in software architecture, technical decisions, and digital product development.
+- Passionate about building innovative products and technology-driven businesses.
 
 ### 🧠 My Focus Areas
 
@@ -57,15 +55,13 @@
 
 ### 🏢 Tazenix
 
-**[Tazenix](https://tazenix.com/)** is a global technology company focused on digital solutions, software products, and technology-driven businesses.
+As Co-Founder & CTO at [Tazenix](https://tazenix.com/), I focus on:
 
-As Co-Founder & CTO, my focus includes:
-
-- Defining technology direction and technical strategy.
+- Defining the company's technology vision and direction.
 - Leading product and technology initiatives.
-- Overseeing system architecture and development decisions.
-- Building and improving digital platforms.
-- Connecting business objectives with technology solutions.
+- Overseeing technical architecture and development strategy.
+- Aligning technology decisions with business objectives.
+- Driving digital innovation and long-term product growth.
 
 ### 🎯 What Drives Me
 
