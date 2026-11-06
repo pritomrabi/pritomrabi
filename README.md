@@ -1,24 +1,37 @@
 <h1 align="center">Hi 👋, I'm Pritom Rabidas</h1>
 
-<h3 align="center">Co-Founder & CTO at Tazenix | Software Engineer | Backend Developer</h3>
+<h3 align="center">Co-Founder & CTO at Tazenix | Entrepreneur | Technology & Product Leader</h3>
 
 <p align="center">
-  Building scalable backend systems, digital products, and technology solutions.
+  Building technology-driven businesses, digital products, and innovative solutions.
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 💼 Co-Founder & CTO at **[Tazenix](https://tazenix.com/)**
-- 💻 Focused on backend engineering and scalable application development.
-- ⚙️ Experienced in building APIs, e-commerce systems, and business applications.
-- 🌱 Continuously exploring software architecture, system design, and modern technologies.
-- 🤝 Interested in collaborating on meaningful technology projects.
+- 🏢 Co-Founder & CTO at **[Tazenix](https://tazenix.com/)**
+- 🎯 Focused on technology leadership, business growth, and product development.
+- 💡 Passionate about turning ideas into practical technology solutions.
+- ⚙️ Involved in technical strategy, system architecture, and software development.
+- 🌍 Interested in building scalable digital products and technology-driven businesses.
+- 🤝 Open to meaningful collaborations and innovative opportunities.
 
-### 🛠️ Tech Stack
+### 🧠 My Focus Areas
 
-**Languages & Frameworks**
+- Technology Strategy & Leadership
+- Product Development & Management
+- Business Technology Solutions
+- Software Architecture & System Design
+- Backend Development & API Architecture
+- E-commerce & SaaS Platforms
+- Database Design & Management
+- Cloud Infrastructure & Deployment
+- Team Collaboration & Technical Decision-Making
+
+### 🛠️ Technologies I Work With
+
+**Programming & Frameworks**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react" />
@@ -36,27 +49,29 @@
   <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,postman" />
 </p>
 
-**Other Technologies**
+**Frontend & Design Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma,photoshop" />
 </p>
 
-### 💼 What I Work On
+### 🏢 Tazenix
 
-- Backend architecture and REST API development
-- Django & Django REST Framework applications
-- E-commerce and multi-vendor platforms
-- Database design and optimization
-- Authentication and notification systems
-- Docker-based deployment and server management
-- Technology strategy and product development
+**[Tazenix](https://tazenix.com/)** is a global technology company focused on digital solutions, software products, and technology-driven businesses.
 
-### 🏢 About Tazenix
+As Co-Founder & CTO, my focus includes:
 
-**[Tazenix](https://tazenix.com/)** is a technology company focused on building digital solutions, software products, and technology-driven businesses.
+- Defining technology direction and technical strategy.
+- Leading product and technology initiatives.
+- Overseeing system architecture and development decisions.
+- Building and improving digital platforms.
+- Connecting business objectives with technology solutions.
 
-As part of the team, I contribute to technical direction, backend engineering, and product development.
+### 🎯 What Drives Me
+
+I believe technology should solve real problems, create opportunities, and build long-term value.
+
+My goal is to build impactful products, develop strong technology systems, and contribute to the growth of innovative businesses.
 
 ### 🤝 Connect With Me
 
@@ -78,5 +93,5 @@ As part of the team, I contribute to technical direction, backend engineering, a
 ---
 
 <p align="center">
-  <i>Building technology. Solving problems. Creating impact.</i>
+  <i>Building vision. Leading technology. Creating impact.</i>
 </p>
